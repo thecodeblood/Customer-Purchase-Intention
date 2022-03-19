@@ -1,4 +1,7 @@
 # Customer-Purchase-Intention
+<p align="center">
+<img src="https://user-images.githubusercontent.com/99346725/159121493-dcef4cd6-90e6-4078-bdb4-aac4f83c2b98.png" alt="Website Result">
+</p>
 
 ## Installing Project Dependencies
 -  To install all the project dependencies use the following syntax given below on command prompt      of Windows
